@@ -2,6 +2,4 @@ Arquivo Teste2.txt
 
 Esse arquivo, em sua versão 1, pertence a branch MASTER.
 
-kjkjkkjjkjkj
-
-ssdsdsdsdsdsdsdsd
+RECEBEU AI?
