@@ -3,5 +3,4 @@ teste2
 teste3
 teste4
 
-Sistema de login
-sistema de login
+Atualização "mergiada" da branch MASTER2 para branch Master. Processo de pull request.
